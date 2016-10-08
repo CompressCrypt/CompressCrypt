@@ -1,2 +1,11 @@
-# CompressCrypt
 CompressCrypt
+=============
+
+CompressCrypt
+
+
+License
+-------
+
+MIT License
+
